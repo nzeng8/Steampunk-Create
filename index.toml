@@ -323,8 +323,3 @@ metafile = true
 file = "mods/wthit.pw.toml"
 hash = "c7aaa1a6c17b3a05f727ee143868595eab4fd3ac6348d2ceded5f04aa4d9fb6c"
 metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
-hash = "61e328b0d9324fb4f713a5e1a7aed8a97ead1de33f7496a623e6028e2b4544f5"
-metafile = true
