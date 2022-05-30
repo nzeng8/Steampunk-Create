@@ -3,3 +3,158 @@ hash-format = "sha256"
 [[files]]
 file = "LICENSE"
 hash = "ec595f4c8573b068c85c389f5a8bee41fb7a60711bd79237bbfd1346bdfb006a"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "5507e7336ae10ac5eede884e5d0eb6ad24f5823c6792147addd1a8f57a9e179e"
+metafile = true
+
+[[files]]
+file = "mods/addadd.pw.toml"
+hash = "21045286366a40ebfe18316a4361ef4e2360f7f06fb0dda95876f71ed4d19a1e"
+metafile = true
+
+[[files]]
+file = "mods/adorn.pw.toml"
+hash = "bb7f8392516aa6d020b1d22898df081e35d9c3f36f78ccf5f93a8f839dd88037"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "acf36c8ed89c3d56a2005a22d662ada08511123fc5570e2645bf66439bb11d5e"
+metafile = true
+
+[[files]]
+file = "mods/ae2things.pw.toml"
+hash = "bb0fd54766a42e6e5da5c256e020485b5d459113384f8cb56b8ab182d14095fd"
+metafile = true
+
+[[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "fd25ba86551687f2adedc74cc6accd93fcb4e0b6d07e8369883736baf175fe48"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "068ec29e5c2383192c89411a3c47909a06f3aa1015c73cfdba1d265283196510"
+metafile = true
+
+[[files]]
+file = "mods/aphid_additions.pw.toml"
+hash = "f020eeecf13374d31f606707aad8e11a746081cdcb6e4baa1e9f7d9b968d5298"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "05e4d4e2c67020adf29f5dd0a317b92745e3f9d5b26c618c0082ac2a92b6a8c3"
+metafile = true
+
+[[files]]
+file = "mods/architects-palette-fabric.pw.toml"
+hash = "0144e503fd917553ac6040bc4ef912426215dcfd669ef534faeb2f32c62b2983"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "7d271dfe7ba52243602bfe6fb74c5a3c5f7156142bb5aa24c21db1ce62aba30f"
+metafile = true
+
+[[files]]
+file = "mods/can-you-trash-it.pw.toml"
+hash = "8df3cb47e1eff73bb896dcbc5913c9bf9639321f3bccacbbfadb2044576dc3ef"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "b8eeaa92aa2dd065415afd6c449f8c785d387a9f27fc5d6e40e35c31ac6616b0"
+metafile = true
+
+[[files]]
+file = "mods/createplus.pw.toml"
+hash = "e0d6530d40d3da9b8909c015e64c921ca7bc2541d53d9539bf6d3099d34aa51a"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "09a23d22d146a039769ed8d67f52de31f25648d952aca0ccab8775aa02a4b1f2"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "a8870bf1740259a7392af3e5a8a001fe957e9cb3b6a7879a5acfe608d45eaf73"
+metafile = true
+
+[[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "cef699b8de118b5ffb298ff722c6a6a4bc8d83eac4d0b5c94e0d6a6431b93673"
+metafile = true
+
+[[files]]
+file = "mods/goml-reserved.pw.toml"
+hash = "bffb80ea8993a8a11259a6a9901147318574016f67a1ef3994dc84863bc01ea2"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "502cd535f6cda8e1e0b0cf83a785e8d8f5702f18b8902ae0c765952d8cfe0b4a"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "fec143d68112c0260e4964f50aad541afde432252cd3f748d4046267af558e67"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "ded057bbb3ab2991addbf96e472df8efa7434c3060f65f6e4d95491c488e659c"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "79abdb9bafc3793dd8c51e633667c20cb85f9dbfdad0d008bbca8be26f22cbf3"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "a6c1b4971c7c06b4a6e802362ae24feb242ae2943cef941fe6319b651768b7e1"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "6dc27377674c79509779c7b17d7db80748d9636c5d639b0e5f67f90b45f1a8e5"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "c6c1956834ce20306f66fcdaa8a9b193556c431851f20570436f82be08d52ac7"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.pw.toml"
+hash = "c3d3973ca1e942ea42f9d14c64eceaa835e4f969fe95d6838701db8d56790c71"
+metafile = true
+
+[[files]]
+file = "mods/promenade.pw.toml"
+hash = "aa63b6bd117897eb7d2fdcdae81e4bf7e426e9dd723ea06cd87cd79a39e34bda"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "f95b2fb43d80577d8f42bb6c60bd0e7aafe7db81a43e5122b7ee69941fccbaeb"
+metafile = true
+
+[[files]]
+file = "mods/sort.pw.toml"
+hash = "2df321a06a4df260d1b6dd3651e08a59b3760bdefba27387bcf7e2965ad2b978"
+metafile = true
+
+[[files]]
+file = "mods/tempad.pw.toml"
+hash = "07e88cf6b84a5cdd3e62dd68e80fef4c8d9b7db52d1ba00656ddc6b7e38f61b5"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "f38c421ba18efbc26e19bd7c50ba2c0fd2aa348b45b16d82756e4640190b443c"
+metafile = true
