@@ -30,6 +30,16 @@ hash = "acf36c8ed89c3d56a2005a22d662ada08511123fc5570e2645bf66439bb11d5e"
 metafile = true
 
 [[files]]
+file = "mods/ae2things.pw.toml"
+hash = "bb0fd54766a42e6e5da5c256e020485b5d459113384f8cb56b8ab182d14095fd"
+metafile = true
+
+[[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "fd25ba86551687f2adedc74cc6accd93fcb4e0b6d07e8369883736baf175fe48"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "068ec29e5c2383192c89411a3c47909a06f3aa1015c73cfdba1d265283196510"
 metafile = true
@@ -95,6 +105,11 @@ hash = "f0c17fb8a7cd21a1be3112ccc10f9dde232b6f09beba5534cf37a6472ad1b3df"
 metafile = true
 
 [[files]]
+file = "mods/can-you-trash-it.pw.toml"
+hash = "8df3cb47e1eff73bb896dcbc5913c9bf9639321f3bccacbbfadb2044576dc3ef"
+metafile = true
+
+[[files]]
 file = "mods/charm.pw.toml"
 hash = "43b890e66def27d2e69144b58270c489aed8b23b2b62133c062cf90bc32dcc46"
 metafile = true
@@ -110,8 +125,18 @@ hash = "3c184c5f2b8648c1106038d68ffece8f508dd3d4241b3d1e89080a0ed2d35b3e"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "07dc8b6b90eb549554a26a111f05b54e8459dd8150f5f3c146a05c3400b7c7ff"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "b8eeaa92aa2dd065415afd6c449f8c785d387a9f27fc5d6e40e35c31ac6616b0"
+metafile = true
+
+[[files]]
+file = "mods/createplus.pw.toml"
+hash = "e0d6530d40d3da9b8909c015e64c921ca7bc2541d53d9539bf6d3099d34aa51a"
 metafile = true
 
 [[files]]
@@ -165,6 +190,11 @@ hash = "f3fdedadc83ac9005a59566330e45964cd52625d8dc15014ca8a40b929863638"
 metafile = true
 
 [[files]]
+file = "mods/fabric-chisel.pw.toml"
+hash = "b5aa8d9141a9b78573d287a1359c77a037083ac1ac6315d822260702c508b549"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "23930f5c1fb185ac4f7cac3dcd65af390dafd0b462b456a37a04226d9890cbe6"
 metafile = true
@@ -190,8 +220,33 @@ hash = "ee9681db8b278639d01f3f87374f635483f8c42093014cc6d3d3848dc07b89b2"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "502cd535f6cda8e1e0b0cf83a785e8d8f5702f18b8902ae0c765952d8cfe0b4a"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "fec143d68112c0260e4964f50aad541afde432252cd3f748d4046267af558e67"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "df65b2a2115e15b523a178be6adc5b7f18b2ec6ca4fb97b5ad5336fd69f9fe1f"
+metafile = true
+
+[[files]]
+file = "mods/kiln.pw.toml"
+hash = "0350b695a10fede981d73790c7cfa36c7664de36ad8d6bfd6b70444e349861d1"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "6c23d726c5512cc285114ee243192dab6ddf39135f273e1fa8e1aec6b0df80d3"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "77f83db2fae27b75a36910d16d01e4d483d2231de3fc68d2a634eb93ec2de7c5"
 metafile = true
 
 [[files]]
@@ -202,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "a6c1b4971c7c06b4a6e802362ae24feb242ae2943cef941fe6319b651768b7e1"
+metafile = true
+
+[[files]]
+file = "mods/mining-gadgets-fabric.pw.toml"
+hash = "1f48f85c1a6107d2405affb9f00f33e4d3308b36b187c3cd90cf3b4f18e0ff77"
 metafile = true
 
 [[files]]
@@ -220,8 +280,23 @@ hash = "c6c1956834ce20306f66fcdaa8a9b193556c431851f20570436f82be08d52ac7"
 metafile = true
 
 [[files]]
+file = "mods/mythicmetals.pw.toml"
+hash = "387cea628b7eaf4068866fe11d11138b5fa4bd6461769b9c326e7f40dcff27fe"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "2d53c4af1ea8cb9b8db1104e16b227c775ef65ff47f0d459135a02dfc85db2e8"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "51b735f00031dc7ddbb390dae266953bfbab4e7a3018a824751b149757489a4a"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "41648c2dd451dda685897dfe215a9d47c91ff5c62de2055ab6140ffc9cb45b45"
 metafile = true
 
 [[files]]
@@ -242,6 +317,11 @@ metafile = true
 [[files]]
 file = "mods/promenade.pw.toml"
 hash = "aa63b6bd117897eb7d2fdcdae81e4bf7e426e9dd723ea06cd87cd79a39e34bda"
+metafile = true
+
+[[files]]
+file = "mods/purpeille.pw.toml"
+hash = "0da9aa0289aa3c657d016977b00a241ce1102e054055ada246163f4748050c0a"
 metafile = true
 
 [[files]]
