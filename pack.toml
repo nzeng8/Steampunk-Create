@@ -1,15 +1,15 @@
 name = "Steampunk Create"
 author = "PotentiallyADuck"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3d3f2b7fd13cea1ffbdeece8793aac4aa4846484b85ce03b26f9a84fbe6bed3a"
+hash = "e1bf1b45c950c23e06a671ae0cc1acacfed8ee1d5dd81d580882ecc11f94bc6a"
 
 [versions]
-fabric = "0.14.6"
+fabric = "0.14.13"
 minecraft = "1.18.2"
 
 [options]
