@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "af97f4df397b3939b909d9c22b61366b637ed164931274f767fa5b41044a708e"
+hash = "824f9e905201bbf6a68da78fdbdca20f98341350b51258ceb6cea46a14a799e2"
 metafile = true
 
 [[files]]
@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "7c32561dc768e8acb98c8dfe323fbaa167c7a0d1c9b6c4a07af5e3e6ab0e539e"
+hash = "e0917e3b5febe243fef9f8353440137bfa3f5bddc3f383a4538160f00b1434b4"
 metafile = true
 
 [[files]]
@@ -131,7 +131,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "97edebb98ececc37c50b661eb557297e5c375fc229ca681fdb4b944d0077ac57"
+hash = "adb8adc2bcc25d3bcaa6a181d77171d214395d05faa2398406b6914e8ce649c3"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "537f69a40435666979111f250398ee856bd0fd9c0a1a7a98392e996c01d20e12"
 metafile = true
 
 [[files]]
@@ -196,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3ecd59b2ab957aadc6759fdb82b82d63c03dfef49c1199f271078659e94cdbf1"
+hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
 metafile = true
 
 [[files]]
@@ -226,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "fed0d1bab4e7e037790b03b8df9f9680266395016d95d81c65d6a6074d7d7fa7"
+hash = "7270a9ac5690c04fc5445e88b7cbb9f216c94250e7a3cc98d034049341ab0083"
 metafile = true
 
 [[files]]
@@ -401,10 +406,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "690fb3745eac21d29e5b4d9b4b80504d6f4f9a875075ba6b8c673c67aa7f7f22"
+hash = "d29df2c62efc3b92300284d1d96ed63fae3207bd0413d654d621b6e595b77453"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "15a0ae84357094ce724ff7c75d625d135f867f2692bd1923a96ee2ff4d7baac4"
+hash = "f72f262c2ffa467a5a5bedaa83db49fd4e4b2b472210e35954ebdf9197637a97"
 metafile = true
